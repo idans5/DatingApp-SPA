@@ -1,4 +1,5 @@
 ﻿# DatingApp
+## Deployed on Azure
 Web Application using ASPNET Core web API entity framework core and angular from scratch
 
 This is mainly a project to experiment with data relationships in Entity Framework Core.
